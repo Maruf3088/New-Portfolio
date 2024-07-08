@@ -84,7 +84,7 @@ header {
   justify-content: space-between;
   padding: 20px 0;
 }
-.menu-toggle{
+.nav-elements i{
   display: none;
 }
 span {
