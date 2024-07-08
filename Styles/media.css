@@ -331,6 +331,7 @@
   .nav-elements i {
     color: white;
     font-size: 28px;
+    display: block;
   }
   .hero-setion {
     height: 70vh;
