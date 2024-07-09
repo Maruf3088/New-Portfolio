@@ -1,3 +1,11 @@
+@media(min-width:2400px){
+  .container {
+    max-width: 50%;
+    margin: 0 auto;
+    /* border: 1px solid red; */
+  }}
+
+
 @media (max-width: 1463px) {
   /*
 !header style
@@ -177,7 +185,6 @@
     padding-right: 10px;
   }
 }
-
 @media (max-width: 800px) {
   .container {
     max-width: 95%;
@@ -298,7 +305,6 @@
     box-shadow: 0 4px 4px rgba(0, 0, 0, 0.404);
   }
 }
-
 @media (max-width: 677px) {
   /*
     !header style
